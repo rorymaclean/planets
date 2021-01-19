@@ -4,5 +4,5 @@ This repo will contain notes about planets.
 
 ## This is a subsection
 
-- Rory
+- Rory Maclean
 - Others
